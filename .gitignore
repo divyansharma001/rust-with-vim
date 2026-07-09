@@ -1,0 +1,30 @@
+.rs*
+# Rust build artifacts
+
+/target/
+
+
+
+# Rust/Cargo lockfile
+
+# Keep Cargo.lock for applications, ignore for libraries if preferred
+
+# /Cargo.lock
+
+
+
+# Vim swap files
+
+*.swp
+
+*.swo
+
+.*.swp
+
+.*.swo
+
+
+
+# Common editor temp files
+
+*~
